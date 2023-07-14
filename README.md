@@ -8,7 +8,7 @@ Desec:
 
 ![Desec Class 1](https://github.com/avelin0/Desec-Classes)
 
-![Desec Classes 2](https://github.com/avelin0/desec-new/blob/master/web-recon-vpn.md)
+![Desec Class 2](https://github.com/avelin0/desec-new/blob/master/web-recon-vpn.md)
 
 Lab Pentest:
 [Lab 11 CT](https://github.com/avelin0/lab11ct)
