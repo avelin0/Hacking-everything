@@ -6,7 +6,7 @@ Python Hacking:
 
 Desec:
 
-![Desec Classes](https://github.com/avelin0/Desec-Classes)
+![Desec Class 1](https://github.com/avelin0/Desec-Classes)
 
 ![Desec Classes 2](https://github.com/avelin0/desec-new/blob/master/web-recon-vpn.md)
 
