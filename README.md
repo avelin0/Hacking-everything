@@ -1,8 +1,7 @@
 # Hacking-everything
 
 Python Hacking:
-
-![Black Hat Python 3 Solved](https://github.com/avelin0/blackhat-python3)
+![Black Hat Python 3 Solved](https://github.com/avelin0/blackhat-python3) - desativado
 
 Desec:
 
@@ -14,5 +13,4 @@ Lab Pentest:
 [Lab 11 CT](https://github.com/avelin0/lab11ct)
 
 Buffer Overflow:
-
-![Course Modern Binary Exploitation](https://github.com/avelin0/MBE)
+![Course Modern Binary Exploitation](https://github.com/avelin0/MBE) - desativado
